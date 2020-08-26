@@ -1,0 +1,2 @@
+# Team-1427-DxStore
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0ac0561e10c84e0ab3ab76c89fea0d18)](https://app.codacy.com/gh/BuildForSDGCohort2/Team-1427-DxStore?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDGCohort2/Team-1427-DxStore&utm_campaign=Badge_Grade_Settings)
